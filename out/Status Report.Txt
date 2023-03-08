@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [project_cdh.PrjPcb]
+   Generated File[project_cdh.TXT]
+   Generated File[project_cdh.LDP]
+   Generated File[project_cdh.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 19:29:03 On 08/03/2023
